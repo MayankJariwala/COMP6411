@@ -1,0 +1,13 @@
+{john, [jill,joe,bob]}. 
+{jill, [bob,joe,bob]}. 
+{sue,  [jill,jill,jill,bob,jill]}. 
+{bob,  [john]}. 
+{joe,  [sue,mayank]}.
+{mayank, [sue,joe]}. 
+{zinnia, [mayank]}.
+{abc, [mayank]}.
+{xyz, [mayank]}.
+{def, [mayank]}.
+{qwer, [mayank]}.
+{assd, [mayank]}.
+{aasfd,[mayank]}.
